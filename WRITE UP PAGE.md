@@ -6,7 +6,7 @@ Funde Pandurang Gahininath  PRN - 220960920027
 
 #Description :
 The project name is "Employee Management System" and it is built using the ASP.NET MVC core and Entity Framework. 
-It implements full CRUD (Create, Read, Update, Delete) operations on a database to manage student information.
+It implements full CRUD (Create, Read, Update, Delete) operations on a database to manage Employee information.
 
 #Approach: 
 The project is built using the Model-View-Controller (MVC) architecture, which separates the application's concerns into three main components:
